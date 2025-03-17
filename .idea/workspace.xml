@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb5386df-f892-4efd-a5bb-a34d791b57c8" name="Changes" comment="Exercise 3">
-      <change afterPath="$PROJECT_DIR$/Exercise 4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise 5.py" afterDir="false" />
+    <list default="true" id="bb5386df-f892-4efd-a5bb-a34d791b57c8" name="Changes" comment="Exercise 4 &amp; 5">
+      <change afterPath="$PROJECT_DIR$/Exercise 6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise 7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nato_phonetic_alphabet.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,21 +25,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Rodgers31"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Rodgers31&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Rodgers31/Python_Coding_Exercises.git",
-    "accountId": "5c4ac69d-63da-4c4a-9205-45549750db49"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Rodgers31/Python_Coding_Exercises.git&quot;,
+    &quot;accountId&quot;: &quot;5c4ac69d-63da-4c4a-9205-45549750db49&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2tyMUHCgoVxRxh4801bJh1AUauA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -47,10 +48,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Exercise 6.executor": "Run",
+    "Python.Exercise 7.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/rodge/Downloads/Python_Lessons"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rodge\Downloads\Python_Coding_Exercises" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -99,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741320340831</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Exercise 4 &amp; 5">
+      <option name="closed" value="true" />
+      <created>1741463195143</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1741463195143</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -107,6 +124,7 @@
     <MESSAGE value="Exercise 1" />
     <MESSAGE value="Exercise 2" />
     <MESSAGE value="Exercise 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 3" />
+    <MESSAGE value="Exercise 4 &amp; 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 4 &amp; 5" />
   </component>
 </project>
